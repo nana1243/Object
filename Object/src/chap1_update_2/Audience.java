@@ -1,4 +1,4 @@
-package chap1_update_2.chap1_update;
+package chap1_update_2;
 
 //관람객은 가방을 소지할 수 있
 public class Audience {

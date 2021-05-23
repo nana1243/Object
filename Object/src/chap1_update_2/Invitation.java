@@ -1,4 +1,4 @@
-package chap1_update_2.chap1_update;
+package chap1_update_2;
 
 import java.time.LocalDateTime;
 

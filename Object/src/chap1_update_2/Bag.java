@@ -1,4 +1,4 @@
-package chap1_update_2.chap1_update;
+package chap1_update_2;
 
 /*
 * 1. 이벤트에 당첨된 사람은 가방안에 현금과 초대장이 들어있지만,
