@@ -6,6 +6,8 @@ import java.time.LocalTime;
 public class DiscountCondition {
     private DiscountConditionType type;
 
+    private int sequence;
+
     private DayOfWeek dayOfWeek;
     private LocalTime startTime;
     private LocalTime endTime;
@@ -40,5 +42,13 @@ public class DiscountCondition {
 
     public void setEndTime(LocalTime endTime) {
         this.endTime = endTime;
+    }
+
+    public int getSequence() {
+        return sequence;
+    }
+
+    public void setSequence(int sequence) {
+        this.sequence = sequence;
     }
 }
